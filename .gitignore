@@ -1,0 +1,3 @@
+# ignore these files
+src/base_graph.pb
+src/ckpt.*
